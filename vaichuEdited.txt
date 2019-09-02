@@ -1,1 +1,1 @@
-Editing Vaichu's file-> GIT practice session
+Editing Vaichu's file-> GIT practice session---just a check..to confirm if origin is configured properly..
